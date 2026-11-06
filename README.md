@@ -48,7 +48,7 @@ Chế độ này không cần tài khoản hay server nào.
 
 **Trên Windows Phone** (tab *Push (anywhere)*):
 
-1. Gõ địa chỉ relay vào ô **Your relay server address**. Địa chỉ server mặc định `https://notifybridge-relay.onrender.com` https://notifybridge-relay.onrender.com (Dùng cho app mặc định, ai tự tạo server thì phải tự build app riêng)
+1. Gõ địa chỉ relay vào ô **Your relay server address**. Địa chỉ server mặc định `https://notifybridge-relay.onrender.com` (Dùng cho app mặc định, ai tự tạo server thì phải tự build app riêng)
 2. Bấm **Set up push notifications**. Thành công thì hiện dòng "Registered" và **mã 6 số**.
 
 **Trên Android:**
