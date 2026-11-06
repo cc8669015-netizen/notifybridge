@@ -4,6 +4,7 @@ Forward notifications from an **Android** phone to a **Windows 10 Mobile** phone
 
 > Windows 10 Mobile has reached end of support since January 14, 2020. This project is intended for those who are still using such devices and want to receive notifications from their primary phone.
 
+[🇻🇳 BẠN LÀ NGƯỜI VIỆT NAM HẢ?, NHẤN VÀO ĐÂY NÈ 🇻🇳](README_VN.md)
 ## Table of Contents
 
 - [Two modes of operation](#two-modes-of-operation)
