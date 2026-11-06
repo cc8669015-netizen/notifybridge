@@ -117,7 +117,7 @@ Nếu `wnsConfigured` là `false`, kiểm tra lại hai biến môi trường (�
 
 **Build app Windows phone**
 
-### Bước 1.Cần máy tính Windows với **Visual Studio** (khuyên dùng 2019, 2022 cũng được), cài workload **Universal Windows Platform development** và Windows 10 SDK (ví dụ 10.0.15063). App yêu cầu Windows 10 bản 1607 (10.0.14393) trở lên.
+### Bước 1. Cần máy tính Windows với **Visual Studio** (khuyên dùng 2019, 2022 cũng được), cài workload **Universal Windows Platform development** và Windows 10 SDK (ví dụ 10.0.15063). App yêu cầu Windows 10 bản 1607 (10.0.14393) trở lên.
 
 1. Mở `Receiver-WindowsPhone/NotifyBridge.sln`.
 2. **Chỉ với chế độ Push:** làm [Bước 5 ở phần dựng relay](#bước-5-gắn-danh-tính-app-windows-phone-với-partner-center) để gắn danh tính app. Chế độ Local không cần bước này.
