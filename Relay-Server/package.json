@@ -1,0 +1,11 @@
+{
+  "name": "notifybridge-relay",
+  "version": "1.0.0",
+  "description": "Relay server for NotifyBridge: pairs an Android phone with a Windows Phone's WNS push channel and forwards notifications as toasts.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": { "node": ">=18" }
+}
